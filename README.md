@@ -2,7 +2,7 @@
 **Rodrigo Pardo** - 2025
 
 ## Goals
-- MAster Python for AI applications
+- Master Python for AI applications
 - Complete HArvard CS50 SQL certification
 - Build enterprise-ready AI solutions
 - Launch AI consulting business
